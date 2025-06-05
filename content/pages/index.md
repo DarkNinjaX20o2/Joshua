@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Humman heath and climante change
+      text: Human health and climate change
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
