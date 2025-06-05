@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: by Joshua Daniel Simonson
       color: text-primary
       type: Badge
     elementId: ''
